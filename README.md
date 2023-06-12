@@ -20,3 +20,4 @@ This uses the same tsconfig and build setup as the [examples repo](https://githu
 - Write your code in `src`
 - `npx turbo run build lint format` to run build scripts quickly in parallel
 - `npm start` to run your program
+- Set your openAI key in the .env file before beginning
